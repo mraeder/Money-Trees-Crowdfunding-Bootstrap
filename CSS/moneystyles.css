@@ -1,0 +1,27 @@
+body {
+    font-family: 'Muli', sans-serif;;
+}
+
+h1 {
+    font-size: 70px;
+    color: #058d64;
+  }
+
+h2 {
+    color: #1b8a68;
+    font-size: 20px; 
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px; 
+    background-image: repeating-linear-gradient(#77f3a9, #d4f7ea);
+    color: white; 
+}
+
+.navbar-light {
+    background-color: rgb(159, 233, 227);
+    font-size: 25px;
+    padding: 8px;   
+}
+    
