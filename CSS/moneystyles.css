@@ -3,25 +3,90 @@ body {
 }
 
 h1 {
-    font-size: 70px;
-    color: #058d64;
+    font-size: 80px;
+    color: #03684a;
   }
 
 h2 {
-    color: #1b8a68;
-    font-size: 20px; 
+    color: #176950;
+    font-size: 35px; 
+}
+
+h3 {
+    color: #101997;
+    font-size: 40px; 
+}
+
+h4 {
+    color: rgb(253, 112, 112);
+    font-size: 50px;
+    margin: 5px; 
+    padding: 5px;
+}
+
+h5 {
+    color: #0e5340;
+    font-size: 40px; 
+}
+
+h6 {
+    color: #3826a0;
+    font-size: 25px; 
+}
+
+h7 {
+    color: #101997;
+    font-size: 50px; 
+}
+
+h8 {
+    color: #101997;
+    font-size: 30px; 
 }
 
 .jumbotron {
     margin: 0;
     padding: 30px; 
-    background-image: repeating-linear-gradient(#77f3a9, #d4f7ea);
+    background-color:rgb(135, 180, 157);  
     color: white; 
 }
 
 .navbar-light {
-    background-color: rgb(159, 233, 227);
+    background-color: rgb(247, 208, 195);
     font-size: 25px;
+    color: #01251b;
+    font-weight: bold;
     padding: 8px;   
 }
-    
+
+.carousel-caption {
+    background-color: rgba(145, 187, 221, 0.5);
+    font-size: 20px;
+    color: #e0f0eb 
+}
+ 
+.carousel {
+    border: solid rgb(99, 177, 241);
+    font-weight: bold; 
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.summary-heading { 
+    font-size: 50px;
+}
+
+.summary-paragraph { 
+    font-size: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ 

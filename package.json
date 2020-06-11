@@ -1,7 +1,7 @@
 {
-  "name": "nucampsite",
+  "name": "money-trees",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsites review site NuCamp",
+  "description": "This is a website for Money Trees crowdfunding",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
@@ -19,5 +19,13 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mraeder/money-trees.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mraeder/money-trees/issues"
+  },
+  "homepage": "https://github.com/mraeder/money-trees#readme"
 }
