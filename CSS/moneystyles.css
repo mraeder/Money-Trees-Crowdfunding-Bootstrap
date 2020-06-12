@@ -3,21 +3,27 @@ body {
 }
 
 h1 {
+    font-family: 'Muli', sans-serif;;
     font-size: 80px;
+    font-weight: bold;
     color: #03684a;
   }
 
 h2 {
+    font-family: 'Muli', sans-serif;;
     color: #176950;
+    font-weight: bold;
     font-size: 35px; 
 }
 
 h3 {
+    font-family: 'Muli', sans-serif;;
     color: #101997;
     font-size: 40px; 
 }
 
 h4 {
+    font-family: 'Muli', sans-serif;;
     color: rgb(253, 112, 112);
     font-size: 50px;
     margin: 5px; 
@@ -25,23 +31,33 @@ h4 {
 }
 
 h5 {
+    font-family: 'Muli', sans-serif;;
     color: #0e5340;
     font-size: 40px; 
 }
 
 h6 {
-    color: #3826a0;
+    font-family: 'Raleway', sans-serif;
+    color: ##077ca0;
     font-size: 25px; 
 }
 
 h7 {
-    color: #101997;
-    font-size: 50px; 
+    font-family: 'Raleway', sans-serif;
+    color: #077ca0;
+    font-size: 45px; 
 }
 
 h8 {
-    color: #101997;
+    font-family: 'Raleway', sans-serif;
+    color: #077ca0;
     font-size: 30px; 
+}
+
+h9 {
+    font-family: 'Raleway', sans-serif;
+    color: #077ca0;
+    font-size: 25px; 
 }
 
 .jumbotron {
